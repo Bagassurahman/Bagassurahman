@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔭 I’m currently studying on SMK Telkom Purwokerto <br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=Bagassurahman&show_icons=true)<br/>
 <a href="https://www.instagram.com/Bagassurahman" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href=" https://api.whatsapp.com/send?phone=6285335098805&text=Helloo%2" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%23E4405F.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="Instagram"></a>
+<a href="https://api.whatsapp.com/send?phone=6285335098805&text=Helloo" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%23E4405F.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="WA"></a>
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
